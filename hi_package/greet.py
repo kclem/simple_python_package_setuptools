@@ -1,0 +1,2 @@
+def hiFriend():
+  return 'hi'
