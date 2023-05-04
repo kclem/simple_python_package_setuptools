@@ -1,2 +1,4 @@
+import hi_package.mylib.greetlib as gl
 def hiFriend():
-  return 'hi'
+  val = gl.hifromlib()
+  return 'hi: ' + val
